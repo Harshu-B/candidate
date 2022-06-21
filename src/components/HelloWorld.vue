@@ -1,1 +1,4 @@
-<template><h1>welcome</h1></template>
+
+<template><h1>welcome</h1>
+<p>hello</p>
+</template>
